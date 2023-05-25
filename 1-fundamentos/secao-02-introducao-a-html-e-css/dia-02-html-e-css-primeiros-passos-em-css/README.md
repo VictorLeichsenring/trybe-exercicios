@@ -13,3 +13,6 @@ Exercício 2:
     Coloque o tamanho do parágrafo com o tamanho de 3 vezes o padrão do body;
     Explore as propriedades font-style, line-height, text-align e text-decoration;
     Troque a cor de fundo de cada item da lista para a cor correspondente ao texto.
+
+Exercício 3:
+    Coloque todo o CSS da tag style em um arquivo externo.
