@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+}
+
+li:hover {
+    background-color: aqua;
+}
+a:active {
+    font-family:'Times New Roman', Times, serif;
+    /* background-color: red; */
+}
+
+ul, ol {
+    list-style: none;
+}

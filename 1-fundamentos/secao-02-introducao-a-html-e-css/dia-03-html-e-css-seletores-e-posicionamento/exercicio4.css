@@ -1,0 +1,55 @@
+div:hover {
+    border: 1px solid black;
+}
+div:nth-of-type(1) {
+    background-color: blue;
+}
+div:nth-of-type(2) {
+    background-color: orange;
+}
+div:nth-of-type(3) {
+    background-color: purple;
+    height: 70px;
+}
+div:nth-of-type(4) {
+    background-color: brown;
+}
+div:nth-of-type(5) {
+    background-color: yellow;
+}
+
+div:nth-of-type(1) > h3 {
+    color: white;
+    font-size: 30px;
+    font-style: oblique;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+div:nth-of-type(2) > h3 {
+    color:blue;
+    font-size: 30px;
+    font-style:normal;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+div:nth-of-type(3) > h3 {
+    color:crimson;
+    font-size: 30px;
+    font-style: italic;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+div:nth-of-type(4) > h3 {
+    color:aquamarine;
+    font-size: 30px;
+    font-style: normal;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+div:nth-of-type(5) > h3 {
+    color:chartreuse;
+    font-size: 30px;
+    font-style: italic;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
