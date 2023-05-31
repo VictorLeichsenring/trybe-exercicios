@@ -18,3 +18,14 @@ Para Fixar 3
         Se grade for menor que 60, armazene na variável message: “Infelizmente, você reprovou.”.
     ➡️ Crie uma estrutura condicional utilizando if, else if e else para criar o seu algoritmo e os operadores lógicos que se aplicam a cada situação.
     ➡️ Altere o valor da nota para verificar se as condições que você implementou funcionam.
+
+Para Fixar 4
+    Crie uma variável chamada currentHour que receba um número entre 1 e 24, conforme sua escolha, para representar as horas do dia;
+    Crie uma variável chamada message que inicialmente seja uma string vazia;
+    Implemente as seguintes condicionais:
+        Se o horário for maior ou igual a 22, insira “Não deveríamos comer nada, é hora de dormir” na variável message;
+        Se o horário for maior ou igual a 18 e menor que 22, insira “Rango da noite, vamos jantar :D” na variável message;
+        Se o horário for maior ou igual a 14 e menor que 18, insira “Vamos fazer um bolo pro café da tarde?” na variável message;
+        Se o horário for maior ou igual a 11 e menor que 14, insira “Hora do almoço!!!” na variável message;
+        Se o horário estiver entre 4 e 11, insira “Hmmm, cheiro de café recém-passado” na variável message.
+    Agora, imprima a variável message fora das suas condições.
