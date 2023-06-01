@@ -87,9 +87,9 @@ for (let ilinha =1; ilinha<=nPiramideAsterisco;ilinha++) {
 //Agora, inverta o lado do triângulo. Por exemplo:
 
 let nPiramideInvertida = 5;
-for (let ilinha = 1; ilinha <= nAsterisco; ilinha++) {
+for (let ilinha = 1; ilinha <= nPiramideInvertida; ilinha++) {
     let linhaAsterisco= '';
-    for (let icoluna=1;icoluna<=nAsterisco;icoluna++) {
+    for (let icoluna=1;icoluna<=nPiramideInvertida;icoluna++) {
         if (icoluna <=(nPiramideInvertida-ilinha)) {
             linhaAsterisco += ' '
         }else {
