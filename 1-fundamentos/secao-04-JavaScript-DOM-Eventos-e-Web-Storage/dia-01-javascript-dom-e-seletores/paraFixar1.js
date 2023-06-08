@@ -1,0 +1,13 @@
+const title = document.getElementById('page-title');
+title.innerText = 'Matrix'
+const firstParagraph =document.getElementById('first-paragraph');
+firstParagraph.innerText = 'O jovem programador Thomas Anderson é atormentado por estranhos pesadelos em que está sempre conectado por cabos a um imenso sistema de computadores do futuro. À medida que o sonho se repete, ele começa a desconfiar da realidade. Thomas conhece os misteriosos Morpheus e Trinity e descobre que é vítima de um sistema inteligente e artificial chamado Matrix, que manipula a mente das pessoas e cria a ilusão de um mundo real enquanto usa os cérebros e corpos dos indivíduos para produzir energia.';
+const subtitle =document.getElementById('subtitle');
+subtitle.innerText = 'Principais Informações';
+const paragraphs = document.getElementsByClassName('paragraph-style');
+const firstParagraphs = paragraphs[0];
+firstParagraphs.style.fontStyle = 'italic';
+const secondParagraph = paragraphs[1];
+secondParagraph.innerText = 'Data de lançamento: 21 de maio de 1999 (Brasil, Diretoras: Lana Wachowski, Lilly Wachowski,Continuação: Matrix Reloaded,Roteiro: Lana Wachowski, Lilly Wachowski, Prêmios: Oscar de Melhores Efeitos Visuais, MAIS, Bilheteria: 467,2 milhões USD'
+const subtitleTag = document.getElementsByTagName('h2')[0];
+subtitleTag.style.color = 'red';
