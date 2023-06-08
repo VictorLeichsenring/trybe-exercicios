@@ -30,7 +30,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [x] 3-1: _Primeiros passos no JavaScript_
 - [x] 3-2: _Array e estrutura de repetição_
-- [ ] 3-3: _Funções_
+- [x] 3-3: _Funções_
 - [ ] 3-4: _Objetos_
 - [ ] 3-5: _JSON e dia de prática_
 - [ ] 3-6: _Projeto - Supermercado Pirilampo_
