@@ -1,1 +1,0 @@
-Seção 4 JavaScript: DOM, Events e Web Storage
