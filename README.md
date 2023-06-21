@@ -41,15 +41,15 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [x] 4-1: _JavaScript - DOM e seletores_
 - [x] 4-2: _JavaScript - Trabalhando com elementos_
-- [ ] 4-3: _JavaScript - Eventos_
-- [ ] 4-4: _JavaScript - Web Storage_
-- [ ] 4-5: _Projeto - Arte com Pixels_
-- [ ] 4-6: _Projeto Bônus_
+- [x] 4-3: _JavaScript - Eventos_
+- [x] 4-4: _JavaScript - Web Storage_
+- [x] 4-5: _Projeto - Arte com Pixels_
+- [x] 4-6: _Projeto Bônus_
 
 
 ##### Seção 5: HTML e CSS: Forms, Flexbox e Responsivo
 
-- [ ] 5-1: _HTML e CSS - Forms_
+- [x] 5-1: _HTML e CSS - Forms_
 - [ ] 5-2: _Bibliotecas JavaScript e Frameworks CSS_
 - [ ] 5-3: _CSS Flexbox - Parte 1_
 - [ ] 5-4: _CSS Flexbox - Parte 2_
