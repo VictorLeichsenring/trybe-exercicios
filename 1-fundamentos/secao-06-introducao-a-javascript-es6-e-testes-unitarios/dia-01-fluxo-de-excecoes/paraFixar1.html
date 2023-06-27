@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <input type="text" name="" placeholder="Nota 1" id="nota-1">
+  <input type="text" name="" placeholder="Nota 2" id="nota-2">
+  <input type="text" name="" placeholder="Nota 3" id="nota-3">
+  <input type="text" name="" placeholder="Nota 4" id="nota-4">
+  <button id="btn-calcular">Calcular Média</button>
+  <p id="resposta"></p>
+</body>
+<script>
+  const nota1Elment = document.getElementById('nota-1');
+  const nota2Elment = document.getElementById('nota-2');
+  const nota3Elment = document.getElementById('nota-3');
+  const nota4Elment = document.getElementById('nota-4');
+  const respostaElement = document.getElementById('resposta');
+  const btnCalcular = document.getElementById('btn-calcular');
+  function checkNumber(number) {
+    if (isNaN(number)) {
+      throw new Error('Devem ser adicionados números')
+    }
+  }
+  
+  function calcularMedia() {
+    const a = parseInt(nota1Elment.value);
+    const b = parseInt(nota2Elment.value);
+    const c = parseInt(nota3Elment.value);
+    const d = parseInt(nota4Elment.value);
+    try {
+      checkNumber(parseInt(a));
+      checkNumber(parseInt(b));
+      checkNumber(parseInt(c));
+      checkNumber(parseInt(d));
+
+      respostaElement.innerText = ((a + b + c + d) / 4);
+    } catch (error) {
+      respostaElement.innerText = error.message;
+    }
+  }
+  btnCalcular.addEventListener('click', calcularMedia)
+</script>
+</html>
