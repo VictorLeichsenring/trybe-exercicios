@@ -17,7 +17,7 @@ const people = [
 ];
 
   function verifyAges(itens, idade) {
-    const ages = Object.values(itens).every((pessoa) => pessoa.age >= idade);
+    const ages = itens.every((pessoa) => pessoa.age >= idade);
     return ages;
   }
 
