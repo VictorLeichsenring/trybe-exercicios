@@ -61,8 +61,8 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [x] 6-1: _Fluxo de exceções_
 - [x] 6-2: _Primeiros passos em Jest_
-- [ ] 6-3: _Matchers e cobertura de código_
-- [ ] 6-4: _Projeto - JavaScript Testes Unitários_
+- [x] 6-3: _Matchers e cobertura de código_
+- [x] 6-4: _Projeto - JavaScript Testes Unitários_
 
 
 ##### Seção 7: Higher Order Functions do JavaScript ES6
