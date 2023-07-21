@@ -68,8 +68,18 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### Seção 7: Higher Order Functions do JavaScript ES6
 
 - [x] 7-1: _Introdução a Higher Order Functions_
-- [ ] 7-2: _Higher Order Functions - sort e map_
-- [ ] 7-3: _Higher Order Functions - filter e reduce_
-- [ ] 7-4: _JavaScript ES6 - spread operator, rest parameters e object destructuring_
-- [ ] 7-5: _JavaScript ES6 - Array destructuring, Default destructuring, Object property shorthand e dafault parameters_
+- [x] 7-2: _Higher Order Functions - sort e map_
+- [x] 7-3: _Higher Order Functions - filter e reduce_
+- [x] 7-4: _JavaScript ES6 - spread operator, rest parameters e object destructuring_
+- [x] 7-5: _JavaScript ES6 - Array destructuring, Default destructuring, Object property shorthand e dafault parameters_
 - [ ] 7-6: _Projeto - Zoo functions_
+
+## Front-end ✅
+
+##### Seção 1: Introdução ao Frontend e JavaScript assíncrono
+
+- [ ] 1-1: _Ambiente de desenvolvimento_
+- [ ] 1-2: _JavaScript Assíncrono - Promises e fetch_
+- [ ] 1-3: _Revisão - Casa de Câmbio_
+- [ ] 1-4: _Async, await e testes assíncronos_
+- [ ] 1-5: _Projeto - iChoveu_
