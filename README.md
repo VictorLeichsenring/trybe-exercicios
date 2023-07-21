@@ -72,7 +72,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 7-3: _Higher Order Functions - filter e reduce_
 - [x] 7-4: _JavaScript ES6 - spread operator, rest parameters e object destructuring_
 - [x] 7-5: _JavaScript ES6 - Array destructuring, Default destructuring, Object property shorthand e dafault parameters_
-- [ ] 7-6: _Projeto - Zoo functions_
+- [x] 7-6: _Projeto - Zoo functions_
 
 ## Front-end ✅
 
