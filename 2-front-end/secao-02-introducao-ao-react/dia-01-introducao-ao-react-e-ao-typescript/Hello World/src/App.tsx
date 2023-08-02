@@ -1,4 +1,4 @@
-
+import HelloWord from './components/HelloWorld'
 import './App.css'
 
 function App() {
@@ -6,7 +6,7 @@ function App() {
 
   return (
     <div>
-      Work in progress
+      <HelloWord/>
     </div>
   )
 }
