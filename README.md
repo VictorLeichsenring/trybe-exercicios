@@ -81,5 +81,16 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 1-1: _Ambiente de desenvolvimento_
 - [x] 1-2: _JavaScript Assíncrono - Promises e fetch_
 - [x] 1-3: _Revisão - Casa de Câmbio_
-- [ ] 1-4: _Async, await e testes assíncronos_
-- [ ] 1-5: _Projeto - iChoveu_
+- [x] 1-4: _Async, await e testes assíncronos_
+- [x] 1-5: _Projeto - iChoveu_
+
+##### Seção 2: Introdução ao React
+
+- [ ] 2-1: _Introdução ao React e ao Typescript_
+- [ ] 2-2: _Componentes React e Props_
+- [ ] 2-3: _Avançando em componentes_
+- [ ] 2-4: _Revisão - Solar System_
+- [ ] 2-5: _Estados e eventos_
+- [ ] 2-6: _Formulários_
+- [ ] 2-7: _Revisão - Store Back Office_
+- [ ] 2-8: _Projeto - Password Manager_
