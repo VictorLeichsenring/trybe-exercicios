@@ -86,11 +86,18 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Seção 2: Introdução ao React
 
-- [ ] 2-1: _Introdução ao React e ao Typescript_
-- [ ] 2-2: _Componentes React e Props_
-- [ ] 2-3: _Avançando em componentes_
-- [ ] 2-4: _Revisão - Solar System_
-- [ ] 2-5: _Estados e eventos_
-- [ ] 2-6: _Formulários_
-- [ ] 2-7: _Revisão - Store Back Office_
-- [ ] 2-8: _Projeto - Password Manager_
+- [x] 2-1: _Introdução ao React e ao Typescript_
+- [x] 2-2: _Componentes React e Props_
+- [x] 2-3: _Avançando em componentes_
+- [x] 2-4: _Revisão - Solar System_
+- [x] 2-5: _Estados e eventos_
+- [x] 2-6: _Formulários_
+- [x] 2-7: _Revisão - Store Back Office_
+- [x] 2-8: _Projeto - Password Manager_
+
+##### Seção 3: Aprofundando no React
+
+- [x] 3-1: _React Router_
+- [ ] 3-2: _Use Effect_
+- [ ] 3-3: _Revisando-Clonando o Twitter_
+- [ ] 3-4: _Projeto- Trybetunes_
