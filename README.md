@@ -98,6 +98,49 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### Seção 3: Aprofundando no React
 
 - [x] 3-1: _React Router_
-- [ ] 3-2: _Use Effect_
-- [ ] 3-3: _Revisando-Clonando o Twitter_
-- [ ] 3-4: _Projeto- Trybetunes_
+- [x] 3-2: _Use Effect_
+- [x] 3-3: _Revisando-Clonando o Twitter_
+- [x] 3-4: _Projeto- Trybetunes_
+
+##### Seção 4: Testes automatizados com React Testing Library
+
+- [x] 4-1: _Introdução ao React Testinh Library_
+- [x] 4-2: _RTL: Mocks_
+- [x] 4-3: _Testando com React Router_
+- [x] 4-4: _Testes em React_
+
+##### Seção 5: Estilização e Metodologia Ágil
+
+- [x] 5-1: _Metodologias ágeis_
+- [x] 5-2: _CSS Modules_
+- [x] 5-3: _Styled Components_
+- [x] 5-4: _Projeto: Frontend Online Store_
+
+##### Seção 6: Gerenciamento de estado com Redux
+
+- [x] 6-1: _Introdução ao Redux - O estado global da aplicação_
+- [x] 6-2: _Usando o Redux no React_
+- [x] 6-3: _Revisão - Usando o Redux no React_
+- [x] 6-4: _Usando o Redux no React - Actions Assíncronas_
+- [x] 6-5: _Testes em React-Redux_
+- [x] 6-6: _Projeto - TrybeWallet_
+
+##### Seção 7: Componentes de Classes, Context API e Custom Hooks
+
+- [x] 7-1: _Componentes de Classes_
+- [x] 7-2: _Context API_
+- [x] 7-3: _Hooks Customizados_
+- [x] 7-4: _Projeto - Star Wars_
+
+##### Seção 8: Projeto - App de Receitas
+
+- [x] 8-1: _Projeto - App de Receitas_
+
+## Back-end ✅
+
+##### Seção 1: Docker: Utilizando Containers
+
+- [ ] 1-1: _Utilizando Containers - Docker_
+- [ ] 1-2: _Manipulando Imagens no Docker_
+- [ ] 1-3: _Orquestrando Containers com Docker Compose_
+- [ ] 1-4: _Projeto - Docker Todo-List_
