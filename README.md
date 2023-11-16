@@ -142,5 +142,14 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [x] 1-1: _Utilizando Containers - Docker_
 - [x] 1-2: _Manipulando Imagens no Docker_
-- [ ] 1-3: _Orquestrando Containers com Docker Compose_
-- [ ] 1-4: _Projeto - Docker Todo-List_
+- [x] 1-3: _Orquestrando Containers com Docker Compose_
+- [x] 1-4: _Projeto - Docker Todo-List_
+
+##### Seção 2: Introdução à SQL
+
+- [ ] 2-1: _Introdução a Banco de Dados_
+- [ ] 2-2: _Como atualizar e remover dados de um banco_
+- [ ] 2-3: _Relacionamentos - Parte 1_
+- [ ] 2-4: _Relacionamentos - Parte 2_
+- [ ] 2-5: _Relacionamentos - Parte 3 e Relatórios Avançados_
+- [ ] 2-6: _Projeto - Trybefy_
