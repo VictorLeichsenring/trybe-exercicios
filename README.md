@@ -147,7 +147,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Seção 2: Introdução à SQL
 
-- [ ] 2-1: _Introdução a Banco de Dados_
+- [x] 2-1: _Introdução a Banco de Dados_
 - [ ] 2-2: _Como atualizar e remover dados de um banco_
 - [ ] 2-3: _Relacionamentos - Parte 1_
 - [ ] 2-4: _Relacionamentos - Parte 2_
