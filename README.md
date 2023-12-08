@@ -156,8 +156,8 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Seção 3: Introdução ao desenvolvimento com Node.js
 
-- [ ] 3-1: _Node.js:Runtime Assíncrono_
-- [ ] 3-2: _Node.js: API REST com Express_
+- [x] 3-1: _Node.js:Runtime Assíncrono_
+- [x] 3-2: _Node.js: API REST com Express_
 - [ ] 3-3: _Node.js: Testes de integração_
 - [ ] 3-4: _Node.js: Express e Middlewares_
 - [ ] 3-5: _Node.js: Express e MySQL_
