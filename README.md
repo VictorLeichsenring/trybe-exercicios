@@ -160,5 +160,14 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 3-2: _Node.js: API REST com Express_
 - [x] 3-3: _Node.js: Testes de integração_
 - [x] 3-4: _Node.js: Express e Middlewares_
-- [ ] 3-5: _Node.js: Express e MySQL_
-- [ ] 3-6: _Projeto - Talker Manager_
+- [x] 3-5: _Node.js: Express e MySQL_
+- [x] 3-6: _Projeto - Talker Manager_
+
+##### Seção 4: Arquitetura de Software: Model, Service e Controller
+
+- [ ] 4-1: _Arquitetura de Software: Camada Model_
+- [ ] 4-2: _Arquitetura de Software: Refatorando Camada Model_
+- [ ] 4-3: _Arquitetura de Software: Camada Service_
+- [ ] 4-4: _Arquitetura de Software: Refatorando Camada Service_
+- [ ] 4-5: _Arquitetura de Software: Refatorando Camada Controller_
+- [ ] 4-6: _Projeto - Store Manager_
