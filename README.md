@@ -165,9 +165,17 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Seção 4: Arquitetura de Software: Model, Service e Controller
 
-- [ ] 4-1: _Arquitetura de Software: Camada Model_
-- [ ] 4-2: _Arquitetura de Software: Refatorando Camada Model_
-- [ ] 4-3: _Arquitetura de Software: Camada Service_
-- [ ] 4-4: _Arquitetura de Software: Refatorando Camada Service_
-- [ ] 4-5: _Arquitetura de Software: Refatorando Camada Controller_
-- [ ] 4-6: _Projeto - Store Manager_
+- [x] 4-1: _Arquitetura de Software: Camada Model_
+- [x] 4-2: _Arquitetura de Software: Refatorando Camada Model_
+- [x] 4-3: _Arquitetura de Software: Camada Service_
+- [x] 4-4: _Arquitetura de Software: Refatorando Camada Service_
+- [x] 4-5: _Arquitetura de Software: Refatorando Camada Controller_
+- [x] 4-6: _Projeto - Store Manager_
+
+##### Seção 5: Node.js:ORM e Autenticação
+
+- [ ] 5-1: _ORM - Interface de aplicação com o banco de dados_
+- [ ] 5-2: _ORM - Associations 1:1 e 1:N_
+- [ ] 5-3: _ORM - Associations N:N e Transactions_
+- [ ] 5-4: _JWT - (JSON Web Token)_
+- [ ] 5-5: _Projeto - API de Blogs_
