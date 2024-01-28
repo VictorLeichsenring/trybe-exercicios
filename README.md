@@ -174,7 +174,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Seção 5: Node.js:ORM e Autenticação
 
-- [ ] 5-1: _ORM - Interface de aplicação com o banco de dados_
+- [x] 5-1: _ORM - Interface de aplicação com o banco de dados_
 - [ ] 5-2: _ORM - Associations 1:1 e 1:N_
 - [ ] 5-3: _ORM - Associations N:N e Transactions_
 - [ ] 5-4: _JWT - (JSON Web Token)_
