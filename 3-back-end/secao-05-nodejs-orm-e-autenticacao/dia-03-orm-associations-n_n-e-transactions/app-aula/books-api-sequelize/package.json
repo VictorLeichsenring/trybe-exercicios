@@ -1,0 +1,25 @@
+{
+  "name": "books-api-sequelize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/server.js",
+    "reset-db-dev": "env $(cat .env) npx sequelize db:drop --env development && env $(cat .env) npx sequelize db:create --env development && env $(cat .env) npx sequelize db:migrate --env development && env $(cat .env) npx sequelize db:seed:all --env development",
+    "reset-db-test": "env $(cat .env) npx sequelize db:drop --env test && env $(cat .env) npx sequelize db:create --env test && env $(cat .env) npx sequelize db:migrate --env test && env $(cat .env) npx sequelize db:seed:all --env test",
+    "reset-db-prod": "env $(cat .env) npx sequelize db:drop --env production && env $(cat .env) npx sequelize db:create --env production && env $(cat .env) npx sequelize db:migrate --env production && env $(cat .env) npx sequelize db:seed:all --env production"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.17.1",
+    "mysql2": "3.0.0",
+    "nodemon": "2.0.15",
+    "sequelize": "6.3.4"
+  },
+  "devDependencies": {
+    "sequelize-cli": "6.6.1"
+  }
+}
