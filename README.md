@@ -186,8 +186,17 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Seção 7: Introdução a TypeScript
 
-- [ ] 7-1: _Aprendendo TypeScript_
-- [ ] 7-2: _Introdução a Generics_
-- [ ] 7-3: _API REST com Express, JWT, Sequelize e TypeScript_
-- [ ] 7-4: _Testando Aplicações com TypeScript_
-- [ ] 7-5: _Projeto - Trybesmith_
+- [x] 7-1: _Aprendendo TypeScript_
+- [x] 7-2: _Introdução a Generics_
+- [x] 7-3: _API REST com Express, JWT, Sequelize e TypeScript_
+- [x] 7-4: _Testando Aplicações com TypeScript_
+- [x] 7-5: _Projeto - Trybesmith_
+
+##### Seção 8: Programação Orientada a Objetos (POO) e SOLID
+
+- [ ] 8-1: _Introdução à Orientação a Objetos_
+- [ ] 8-2: _Herança e Composição_
+- [ ] 8-3: _Polimorfismo_
+- [ ] 8-4: _SOLID - Introdução e princípios S, O, e D_
+- [ ] 8-5: _SOLID - Princípios L e I_
+- [ ] 8-6: _Projeto - Trybers and Dragons_
