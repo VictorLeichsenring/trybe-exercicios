@@ -176,6 +176,18 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [x] 5-1: _ORM - Interface de aplicação com o banco de dados_
 - [x] 5-2: _ORM - Associations 1:1 e 1:N_
-- [ ] 5-3: _ORM - Associations N:N e Transactions_
-- [ ] 5-4: _JWT - (JSON Web Token)_
-- [ ] 5-5: _Projeto - API de Blogs_
+- [x] 5-3: _ORM - Associations N:N e Transactions_
+- [x] 5-4: _JWT - (JSON Web Token)_
+- [x] 5-5: _Projeto - API de Blogs_
+
+##### Seção 6: Masterclass: Implantação de Aplicações na Nuvem
+
+- [x] 6-1: _Infraestrutura: Deploy com Railway_
+
+##### Seção 7: Introdução a TypeScript
+
+- [ ] 7-1: _Aprendendo TypeScript_
+- [ ] 7-2: _Introdução a Generics_
+- [ ] 7-3: _API REST com Express, JWT, Sequelize e TypeScript_
+- [ ] 7-4: _Testando Aplicações com TypeScript_
+- [ ] 7-5: _Projeto - Trybesmith_
