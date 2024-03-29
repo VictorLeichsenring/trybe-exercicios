@@ -194,9 +194,18 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Seção 8: Programação Orientada a Objetos (POO) e SOLID
 
-- [ ] 8-1: _Introdução à Orientação a Objetos_
-- [ ] 8-2: _Herança e Composição_
-- [ ] 8-3: _Polimorfismo_
-- [ ] 8-4: _SOLID - Introdução e princípios S, O, e D_
-- [ ] 8-5: _SOLID - Princípios L e I_
-- [ ] 8-6: _Projeto - Trybers and Dragons_
+- [x] 8-1: _Introdução à Orientação a Objetos_
+- [x] 8-2: _Herança e Composição_
+- [x] 8-3: _Polimorfismo_
+- [x] 8-4: _SOLID - Introdução e princípios S, O, e D_
+- [x] 8-5: _SOLID - Princípios L e I_
+- [x] 8-6: _Projeto - Trybers and Dragons_
+
+## Ciência da Computação ✅
+
+##### Seção 1: Introdução à Python
+
+- [ ] 1-1: _Aprendendo Python_
+- [ ] 1-2: _Entrada e Saída de Dados com Testes_
+- [ ] 1-3: _P.O.O em Python_
+- [ ] 1-4: _Projeto - Job Insights_
