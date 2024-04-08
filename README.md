@@ -207,5 +207,12 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [x] 1-1: _Aprendendo Python_
 - [x] 1-2: _Entrada e Saída de Dados com Testes_
-- [ ] 1-3: _P.O.O em Python_
-- [ ] 1-4: _Projeto - Job Insights_
+- [x] 1-3: _P.O.O em Python_
+- [x] 1-4: _Projeto - Job Insights_
+
+##### Seção 2: Algoritimos
+
+- [ ] 2-1: _Complexidade de Algoritimos_
+- [ ] 2-2: _Recursividade e Estratégias para Solução de Problemas_
+- [ ] 2-3: _Algoritimos de ordenação e busca_
+- [ ] 2-4: _Projeto - Algoritimos_
