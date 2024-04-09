@@ -35,4 +35,3 @@ const tv1 = new Tv('LG', 32, '4K', ['HDMI', 'USB', 'Wi-Fi']);
 tv1.turnOn();
 tv1.connectedTo = 'Wi-Fi';
 console.log('Connected to: ', tv1.connectedTo);
-// comentário para commit
