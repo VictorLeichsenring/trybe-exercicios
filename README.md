@@ -213,6 +213,13 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### Seção 2: Algoritimos
 
 - [x] 2-1: _Complexidade de Algoritimos_
-- [ ] 2-2: _Recursividade e Estratégias para Solução de Problemas_
-- [ ] 2-3: _Algoritimos de ordenação e busca_
-- [ ] 2-4: _Projeto - Algoritimos_
+- [x] 2-2: _Recursividade e Estratégias para Solução de Problemas_
+- [x] 2-3: _Algoritimos de ordenação e busca_
+- [x] 2-4: _Projeto - Algoritimos_
+
+##### Seção 3: Estrutura de Dados I: Listas Lineares
+
+- [ ] 3-1: _Arrays_
+- [ ] 3-2: _Nó e Listas Encadeadas_
+- [ ] 3-3: _Pilhas e Filas_
+- [ ] 3-4: _Projeto TING - Trybe is Not Google_
